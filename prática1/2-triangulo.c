@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  int b;
-  int h;
+  int b,h;
  
 
   printf("Qual a medida da base?\n");
