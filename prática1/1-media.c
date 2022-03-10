@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-  int A1;
-  int A2;
+  int A1,A2;
+  
  
 
   printf("Qual foi a nota da sua A1?\n");
